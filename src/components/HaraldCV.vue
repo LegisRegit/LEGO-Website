@@ -4,8 +4,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">Harald's CV</h2>
-          <h3 class="section-subheading text-muted">Harald's Educational and Employment Credentials.</h3>
+          <h2 class="section-heading text-uppercase">Bjørg's Portfolio</h2>
+          <h3 class="section-subheading text-muted">Bjørg's Past Projects.</h3>
         </div>
       </div>
       <div class="row">
@@ -30,24 +30,18 @@ export default {
     return {
       portfolio: [
         {
-          name: "University Education",
+          name: "Whacky Art 1",
           description: `<p>
-              Bachelor's Degree in Software Engineering from the University of Southern Denmark.
-              <br>During my education I have had courses in:
-              <br>- Programming, Java, C#, SQL, and more.
-              <br>- Organizational Theory.
-              <br>- Project Management.
-              <br>- Design of Software Systems.
+              <img src="./assets/whack1.jpg">
+              <br>- The first whacky art piece.
             </p>`,
           active: false
         },
         {
-          name: "Discord Moderator",
+          name: "Whacky Art 2",
           description: `<p>
-              Moderating an online community.
-              <br>- Ensure good communication and behaviour.
-              <br>- Conflict solving between members.
-              <br>- Event management.
+              <img src="./assets/whack2.jpg">
+              <br>- The second whacky art piece.
             </p>`,
           active: false
         }

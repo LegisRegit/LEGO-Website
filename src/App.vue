@@ -2,7 +2,7 @@
   <div id="app">
       <nav class="navbar navbar-expand navbar-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Harald's Website</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Bjørg's's Website</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -10,11 +10,11 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto">          
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#cv">CV</a>
+            <a class="nav-link js-scroll-trigger" href="#cv">Portfolio</a>
           </li>
           <li class="nav-item">&nbsp;&nbsp;&nbsp;&nbsp;</li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#json">json</a>
+            <a class="nav-link js-scroll-trigger" href="#json">Contact Info</a>
           </li>
         </ul>
       </div>
@@ -33,16 +33,16 @@
 
  
 
- <!-- HaraldCV -->
+ <!-- BjorgPortfolio -->
 
-  <haraldCV>  </haraldCV>
+  <bjorgPortfolio>  </bjorgPortfolio>
  
 
  
 
-  <!-- json movie data -->
+  <!-- Contact info -->
 
-  <movieData>  </movieData>
+  <contactInfo>  </contactInfo>
 
   
 
