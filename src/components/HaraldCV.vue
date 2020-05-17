@@ -34,11 +34,6 @@ export default {
           description: `<p>
               Bachelor's Degree in Software Engineering from the University of Southern Denmark.
               <br>During my education I have had courses in:
-              <ul>
-              <li>Programming, Java, C#, SQL, and more.</<li>
-              <li>Programming, Java, C#, SQL, and more.</<li>
-              <li>Programming, Java, C#, SQL, and more.</<li>
-              </ul>
               <br>- Programming, Java, C#, SQL, and more.
               <br>- Organizational Theory.
               <br>- Project Management.
